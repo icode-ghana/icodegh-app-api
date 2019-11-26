@@ -10,5 +10,14 @@
 - 👉 rename `env_sample` to `.env`
 - 👉 to start the server run `npm start`
 
-### Issues
+## How To Contribute 🤩
+- 👉 Join `API-SLACK-CHANNEL`
+- 👉 Request to be added to this repository
+- 👉 Get a task from project admins
+- 👉 Checkout from development branch
+- 👉 Commit and push your changes
+- 👉 Create a pull request for your changes.
+
+
+### Issues 🥵
 please report your issues to slack channel or use github issues.
