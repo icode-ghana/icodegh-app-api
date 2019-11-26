@@ -1,0 +1,10 @@
+NODE_ENV=development
+TZ=Accra/Ghana
+APP_NAME="ICODE GH PLATFORM APP"
+SERVER_NAME=ICODE-GH-WEB-APP-API
+SERVER_VERSION=1.0.0
+PORT=2020
+BASE_URL=http://localhost
+DB_URI=mongodb://localhost:27017/iode-gh-app
+APPLICATION_URL=http://localhost:2020
+ASSETS_URL=localhost:2020/media/

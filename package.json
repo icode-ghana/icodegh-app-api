@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "description": "API Services for Icode-GH Platform App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "eval $(cat .env) nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Mohammed Bashiru",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@sendgrid/mail": "^6.4.0",
+    "agenda": "^2.1.0",
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "errorhandler": "^1.5.1",
+    "express": "^4.17.1",
+    "flatten-obj": "^3.1.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "mongodb": "^3.3.3",
+    "mongoose": "^5.7.5",
+    "mongoose-api-query": "^0.1.1-pre",
+    "mongoose-createdmodified": "0.0.2",
+    "nodemon": "^1.19.4",
+    "winston": "^3.2.1"
+  },
+  "name": "icode-gh-app-api",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammedBashiru/icodegh-app-api.git"
+  },
+  "homepage": "https://github.com/MohammedBashiru/icodegh-app-api#readme"
+}
